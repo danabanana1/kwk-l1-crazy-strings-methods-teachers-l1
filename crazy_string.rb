@@ -1,5 +1,7 @@
 # write your method here
 
-crazy_strings ("1", "2") = .upcase.reverse  
-  
+def crazy_strings (1, 2)  
+  puts 1.upcase.reverse
+  puts 2.swapcase
 
+end 
